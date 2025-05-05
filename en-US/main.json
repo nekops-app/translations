@@ -5,12 +5,16 @@
     "serverCard": "Server Card",
     "workspaces": "Workspaces"
   },
-  "about": {
+  "aboutModal": {
     "about": "About",
     "aboutNekops": "About Nekops",
     "author_before": "Crafted by @Candinya with",
     "author_after": "",
-    "checkUpdate": "Check Update"
+    "checkUpdate": "Check Update",
+    "linkHomepage": "Homepage",
+    "linkSourceCode": "Source Code",
+    "linkDocuments": "Documents",
+    "linkCommunity": "Community"
   },
   "update": {
     "notificationLoadingMessage": "Checking update...",

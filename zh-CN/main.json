@@ -18,12 +18,16 @@
     "rescue": "救援",
     "pickOrEnter": "选择现有或输入新的"
   },
-  "about": {
+  "aboutModal": {
     "about": "关于",
     "aboutNekops": "关于 Nekops",
     "author_before": "由 @Candinya 用",
     "author_after": "打造",
-    "checkUpdate": "检查更新"
+    "checkUpdate": "检查更新",
+    "linkHomepage": "首页",
+    "linkSourceCode": "源码",
+    "linkDocuments": "文档",
+    "linkCommunity": "社区"
   },
   "update": {
     "notificationLoadingMessage": "正在检查更新…",
