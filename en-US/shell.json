@@ -2,6 +2,7 @@
   "contextMenu": {
     "shellAction": "Shell Action",
     "selectAll": "Select All",
+    "sttyFit": "Fit Size",
     "processManage": "Process Manage",
     "terminate": "Terminate",
     "reconnect": "Reconnect"

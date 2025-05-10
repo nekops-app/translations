@@ -7,6 +7,7 @@
   "contextMenu": {
     "shellAction": "命令行操作",
     "selectAll": "全选",
+    "sttyFit": "调整大小",
     "processManage": "进程管理",
     "terminate": "$t(common.terminate)",
     "reconnect": "$t(common.reconnect)"
